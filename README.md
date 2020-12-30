@@ -1,1 +1,1 @@
-# Minute-Work-Learning
+# JS Practice
